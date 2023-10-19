@@ -1,0 +1,21 @@
+h1{
+    text-align: center;
+    background-color: darkcyan;
+    border-radius: 15px;
+    margin-left: 20%;
+    margin-right: 20%;
+    font-family: 'Pixelify Sans', sans-serif;
+}
+
+#div_general{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 5%;
+}
+
+.card{
+    text-align: center;
+    font-family: 'Pixelify Sans', sans-serif;
+}
